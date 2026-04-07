@@ -7,7 +7,7 @@ const BookCard = ({book}) => {
   <figure className='p-6'>
     <img
       src={book.image}
-      alt={book.bookName}  className='rounded-xl h-[250px]'/>
+      alt={book.bookName}  className='rounded-xl h-62.5'/>
   </figure>
   <div className="card-body">
    
