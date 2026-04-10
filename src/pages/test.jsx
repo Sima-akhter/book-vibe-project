@@ -2,7 +2,21 @@ import React from 'react'
 
 const test = () => {
   return (
-    <div>test</div>
+    <div>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+        <h2>hello</h2>
+    </div>
   )
 }
 
